@@ -1,0 +1,23 @@
+# Zig 构建缓存
+.zig-cache/
+
+# Zig 构建输出
+zig-out/
+
+# Zig 包缓存（下载的依赖）
+zig-pkg/
+
+# OpenCode / Sisyphus
+.opencode/
+.sisyphus/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统
+.DS_Store
+Thumbs.db
