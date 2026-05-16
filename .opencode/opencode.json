@@ -9,7 +9,7 @@
       "name": "Alibaba Cloud Model Studio",
       "options": {
         "baseURL": "https://token-plan.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
-        "apiKey": "sk-sp-djI.VmsrDph7iwO76O6EAezDoHoVHbLYCnumH8e6z5t-6PZYTX6W6P0VsYlC0PHh-ZLCxicfeFOdPFlO9RsjcHBEzHO1NQi4902LlztwH-i2rygCTFWjhWg9SCMCe86MU_9e.MEUCIQDsHcBhU2w8gRVqUdgaxWF6DnTKh7BfJOG_iE8LRF-VEwIgeaYU-bE3wFZSkFwrGzBqr3CMLI3Nvld8aaMA4dkj38o"
+        "apiKey": ""
       },
       "models": {
         "qwen3.6-plus": {
